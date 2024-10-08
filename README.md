@@ -43,6 +43,7 @@ While much of my work has been developed locally or resides in private repositor
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to **connect with me**!
 
----
+---![photo_2024-10-08_13-03-19](https://github.com/user-attachments/assets/067364a0-0e9c-4723-97fb-07f2e3cfadb9)
+
 ![MG9787(1) (1)](https://github.com/user-attachments/assets/a762cb40-4d6f-41c2-aa4c-4b9c0d36aac5)
 *This README is a reflection of my journey and aspirations in the tech world. Thank you for visiting my profile!*
