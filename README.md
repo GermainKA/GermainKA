@@ -26,8 +26,8 @@ While much of my work has been developed locally or resides in private repositor
 
 ## 🚀 Featured Projects
 
-- **2024 - [C++ | OpenGL] Optimized Rendering of Thousands of Minecraft CubeMaps**
-  - *Developed an optimized rendering engine using C++ and OpenGL to efficiently draw thousands of Minecraft-style cube maps.*
+- **2024 - [C++ | OpenGL] Optimized Rendering of Thousands of Minecraft-style cube**
+  - *Developed an optimized rendering engine using C++ and OpenGL to efficiently draw thousands of Minecraft-style cube.*
 
 - **2023 - [Python] 3D Human Pose Estimation Model for Feint Detection in a Virtual Basketball Game**
   - *Created a 3D human pose estimation model using RNNs in Python to detect feints in a virtual basketball game, enhancing gameplay realism.*
